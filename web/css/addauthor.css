@@ -1,0 +1,25 @@
+body
+{
+     background-image: url("../img/fv.jpg");
+    background-size: cover;
+    font-size: 150%;
+    font-family: cursive;
+    color:black;
+}
+
+.form
+{
+  
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 5%;
+    background-color: rgba(255, 255, 255, .8);
+   
+}
+.form-control
+{
+    background-color: inherit;
+    border:solid;
+    color:black;
+}
